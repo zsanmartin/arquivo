@@ -1,0 +1,18 @@
+---
+layout: default
+---
+
+<div class="galleria" style="height: 600px">
+  {% for photo in page.photos %}
+    <img class="card-img-top" src="/images/{{ photo.path }}" />
+  {% endfor %}
+</div>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1/jquery.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/galleria/1.5.7/galleria.min.js"></script>
+<script>
+  (function() {
+    Galleria.loadTheme('https://cdnjs.cloudflare.com/ajax/libs/galleria/1.5.7/themes/fullscreen/galleria.fullscreen.min.js');
+    Galleria.run('.galleria');
+  }());
+</script>

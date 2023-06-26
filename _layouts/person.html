@@ -1,0 +1,40 @@
+---
+layout: default
+---
+
+<div class="container-fluid mt-3">
+  <h1>{{ page.title }}</h1>
+  <ul class="nav nav-pills mb-3">
+    <li class="nav-item">
+      <a class="nav-link" href="#">Sobre</a>
+    </li>
+    <li class="nav-item">
+      <a class="nav-link active" aria-current="page" href="#">Fotos</a>
+    </li>
+    <li class="nav-item">
+      <a class="nav-link" href="#">Documentos</a>
+    </li>
+  </ul>
+  <div class="galleria" style="height: 100vh"></div>
+</div>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1/jquery.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/galleria/1.6.1/galleria.min.js"></script>
+<script>
+  (function() {
+    var data = [
+      {% for photo in page.photos %}
+        {
+            thumb: "/thumbs/images/{{ photo.path }}",
+            image: "/images/{{ photo.path }}",
+            title: "{{ photo.name }}",
+            description: "<a href='/images/{{ photo.path }}' target='_blank'>Download High-Res</a>",
+        },
+      {% endfor %}
+    ];
+    Galleria.loadTheme('https://cdnjs.cloudflare.com/ajax/libs/galleria/1.6.1/themes/folio/galleria.folio.min.js');
+    Galleria.run('.galleria', {
+      dataSource: data
+    });
+  }());
+</script>
