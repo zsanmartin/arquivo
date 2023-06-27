@@ -5,7 +5,7 @@ permalink: /person/LodovicoMortara
 photo_groups:
   - group_name: Ultima Volontà
     group_id: UltimaVolonta
-    description: >
+    description: |
       Prof. Avv. Lodovico Mortara - Roma, Via Bertoloni 31 - 1º gennaio 1937
 
       **Copia delle disposizioni di ultima volontà di Lodovico Mortara**
