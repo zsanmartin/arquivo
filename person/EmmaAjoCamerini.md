@@ -38,3 +38,7 @@ photo_groups:
     - path: photos/EmmaAjoCamerini/LeMieVolonta/verso.jpeg
 
 ---
+
+_(Perugia, 1867 -- Como, 1944)_
+
+Esposa de Raimondo Camerini, filha de Alessandro Ajò (1838 -- 1922) e Elvira Servadio (1843 -- 1910). Não teve filhos.
