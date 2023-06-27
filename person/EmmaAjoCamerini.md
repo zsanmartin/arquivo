@@ -33,9 +33,9 @@ photo_groups:
       Milano, il 24 Maggio 1937
 
     photos:
-    - path: photos/EmmaAjoCamerini/LeMieVolonta/envelope.jpeg
-    - path: photos/EmmaAjoCamerini/LeMieVolonta/frente.jpeg
-    - path: photos/EmmaAjoCamerini/LeMieVolonta/verso.jpeg
+      - path: photos/EmmaAjoCamerini/LeMieVolonta/envelope.jpeg
+      - path: photos/EmmaAjoCamerini/LeMieVolonta/frente.jpeg
+      - path: photos/EmmaAjoCamerini/LeMieVolonta/verso.jpeg
 
 ---
 
