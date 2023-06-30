@@ -13,6 +13,10 @@ title: Lista
 
 * [Emma Ajò Camerini (1867 -- 1944)](/person/EmmaAjoCamerini)
 
+#### Vivanti
+
+* [Claudio Vivanti](/person/ClaudioVivanti)
+
 #### Outros documentos
 
 * [Não classificados](/unclassified)
