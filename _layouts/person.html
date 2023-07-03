@@ -28,7 +28,7 @@ layout: default
           {% for photo in photo_group.photos %}
             {
               thumb: "/thumbs/images/{{ photo.path }}",
-              image: "/images/{{ photo.path }}",
+              image: "/largeThumbs/images/{{ photo.path }}",
               title: "{{ photo.name }}",
               description: "<a href='/images/{{ photo.path }}' target='_blank'>Download High-Res</a>",
             },
