@@ -23,6 +23,43 @@ photo_groups:
         path: photos/GiorgioMortara/CartolinePostale/GiorgioMortaraCartolinePostaleRussiaBack.jpeg
       - name: Cartolina Postale, Giorgio a Laura (#03), enviado de Moscou, URSS. Verso.
         path: photos/GiorgioMortara/CartolinePostale/GiorgioMortaraCartolinePostaleRussiaFront.jpeg
+  - group_name: Libretto Personale, Regio Esercito Italiano
+    group_id: LibrettoPersonale
+    photos:
+      - path: photos/GiorgioMortara/LibrettoPersonale/GiorgioMortaraLibrettoPersonaleCover.jpeg
+      - path: photos/GiorgioMortara/LibrettoPersonale/GiorgioMortaraLibrettoPersonalePage01.jpeg
+      - path: photos/GiorgioMortara/LibrettoPersonale/GiorgioMortaraLibrettoPersonalePage02.jpeg
+      - path: photos/GiorgioMortara/LibrettoPersonale/GiorgioMortaraLibrettoPersonalePage04.jpeg
+      - path: photos/GiorgioMortara/LibrettoPersonale/GiorgioMortaraLibrettoPersonalePage06.jpeg
+      - path: photos/GiorgioMortara/LibrettoPersonale/GiorgioMortaraLibrettoPersonalePage08.jpeg
+      - path: photos/GiorgioMortara/LibrettoPersonale/GiorgioMortaraLibrettoPersonalePage10.jpeg
+      - path: photos/GiorgioMortara/LibrettoPersonale/GiorgioMortaraLibrettoPersonalePage12.jpeg
+      - path: photos/GiorgioMortara/LibrettoPersonale/GiorgioMortaraLibrettoPersonalePage14.jpeg
+      - path: photos/GiorgioMortara/LibrettoPersonale/GiorgioMortaraLibrettoPersonalePage16.jpeg
+      - path: photos/GiorgioMortara/LibrettoPersonale/GiorgioMortaraLibrettoPersonalePage18.jpeg
+      - path: photos/GiorgioMortara/LibrettoPersonale/GiorgioMortaraLibrettoPersonalePage20.jpeg
+      - path: photos/GiorgioMortara/LibrettoPersonale/GiorgioMortaraLibrettoPersonalePage22.jpeg
+      - path: photos/GiorgioMortara/LibrettoPersonale/GiorgioMortaraLibrettoPersonalePage24.jpeg
+      - path: photos/GiorgioMortara/LibrettoPersonale/GiorgioMortaraLibrettoPersonalePage26.jpeg
+      - path: photos/GiorgioMortara/LibrettoPersonale/GiorgioMortaraLibrettoPersonalePage28.jpeg
+      - path: photos/GiorgioMortara/LibrettoPersonale/GiorgioMortaraLibrettoPersonalePage30.jpeg
+      - path: photos/GiorgioMortara/LibrettoPersonale/GiorgioMortaraLibrettoPersonalePage32.jpeg
+      - path: photos/GiorgioMortara/LibrettoPersonale/GiorgioMortaraLibrettoPersonalePage34.jpeg
+      - path: photos/GiorgioMortara/LibrettoPersonale/GiorgioMortaraLibrettoPersonalePage36.jpeg
+      - path: photos/GiorgioMortara/LibrettoPersonale/GiorgioMortaraLibrettoPersonalePage38.jpeg
+      - path: photos/GiorgioMortara/LibrettoPersonale/GiorgioMortaraLibrettoPersonalePage40.jpeg
+      - path: photos/GiorgioMortara/LibrettoPersonale/GiorgioMortaraLibrettoPersonalePage42.jpeg
+      - path: photos/GiorgioMortara/LibrettoPersonale/GiorgioMortaraLibrettoPersonalePage44.jpeg
+      - path: photos/GiorgioMortara/LibrettoPersonale/GiorgioMortaraLibrettoPersonalePage46.jpeg
+      - path: photos/GiorgioMortara/LibrettoPersonale/GiorgioMortaraLibrettoPersonalePage48.jpeg
+      - path: photos/GiorgioMortara/LibrettoPersonale/GiorgioMortaraLibrettoPersonalePage50.jpeg
+      - path: photos/GiorgioMortara/LibrettoPersonale/GiorgioMortaraLibrettoPersonalePage52.jpeg
+      - path: photos/GiorgioMortara/LibrettoPersonale/GiorgioMortaraLibrettoPersonalePage54.jpeg
+      - path: photos/GiorgioMortara/LibrettoPersonale/GiorgioMortaraLibrettoPersonalePage56.jpeg
+      - path: photos/GiorgioMortara/LibrettoPersonale/GiorgioMortaraLibrettoPersonalePage58.jpeg
+      - path: photos/GiorgioMortara/LibrettoPersonale/GiorgioMortaraLibrettoPersonalePage60.jpeg
+      - path: photos/GiorgioMortara/LibrettoPersonale/GiorgioMortaraLibrettoPersonalePage62.jpeg
+      - path: photos/GiorgioMortara/LibrettoPersonale/GiorgioMortaraLibrettoPersonalePage64.jpeg
   - group_name: Premiação 1962, Banca de Italia
     group_id: Award1962
     photos:
