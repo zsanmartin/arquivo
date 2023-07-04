@@ -7,4 +7,10 @@ Este site mantém e divulga uma cópia digital do acervo familiar que havia sido
 
 A manutenção deste site é feita por José Mortara San Martin. Questionamentos, perguntas e correções são bem vindas, pelo email jz.sanmartin [at] gmail.com.
 
+#### Transcrições
+
 **Colaboração com as transcrições são bem vindas!** A caligrafia muitas vezes é muito difícil de ler, se você tiver vontade de contribuir com a transcrição de alguns documentos, fale comigo no email jz.sanmartin [at] gmail.com. Correções pequenas são muito bem vindas também.
+
+#### Download de todo o material
+
+Você pode baixar o material completo em [https://github.com/zsanmartin/arquivo/](https://github.com/zsanmartin/arquivo/)
