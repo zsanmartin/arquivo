@@ -41,10 +41,7 @@ photo_groups:
       O mia ????, si m?i \
       Io obliassi, o l'altra in core, \
 
-
-
-
-
+      **(transcrição incompleta, continua)**
 
     photos:
       - name: Frente

@@ -3,6 +3,13 @@ title: Lodovico Mortara
 layout: person
 permalink: /person/LodovicoMortara
 photo_groups:
+  - group_name: Cartolina Postale
+    group_id: CartolinaPostale
+    photos:
+      - name: Cartão postal ao seu neto, Valerio Mortara. Frente.
+        path: photos/LodovicoMortara/CartolinePostale/LodovicoMortaraCartolinePostale1933Front.jpeg
+      - name: Cartão postal ao seu neto, Valerio Mortara. Verso.
+        path: photos/LodovicoMortara/CartolinePostale/LodovicoMortaraCartolinePostale1933Back.jpeg
   - group_name: Ultima Volontà
     group_id: UltimaVolonta
     description: |

@@ -3,8 +3,8 @@ title: Claudio Vivanti
 layout: person
 permalink: /person/ClaudioVivanti
 photo_groups:
-  - group_name: Biografia
-    group_id: Biografia
+  - group_name: Ricordi
+    group_id: Ricordi
     description: |
       Carissimo [Giorgio](/person/GiorgioMortara), eccoti i ricordi che desideri. La parte riguardante tua Madre presenta delle lacune, dovute in parte alla variabilità della mia memoria, ma anche più alla mancanza d'informazione; ma tu avrai gli elementi per com?rle.
 
@@ -38,6 +38,7 @@ photo_groups:
 
       Per questo Egli fu sempre amato e stimato da tutti coloro che lo conobbero. Il trasferimento da Mantova a Messina in seguito alla mia nomina a professore di quella Università fu per Lui **impressionante;** ma poi si abituò facilmente al nuovo ambiente, e passava le giornate pregando, leggendo, conversando piacevolamente con i miei colleghi che venivano a casa nostra di sera e che gli dimostravano molta stima, e intrattenendosi coi miei bambini, ai quali insegnava molte cose utili e belle. A messina subì (senza nessun apparato, seduto sopra una sedia nella propria stanza) l'estrazione della cataratta, che riuscì perfettamente, tanto che Egli poté poi sempre uscire da solo, leggere e scrivere con l'unico sussidio indispensabile degli occhiali. A 71 anni fu colpito da polmonite, e dopo pochi giorni di malattia spirò serenamente come un santo, senza soffrire e senza accorgersi della propria fine (1903). L'ing. Schweizer, un ebreo alsaziano, nostro buon amico, volle spontaneamente recitare davanti alla Sua salma le preghiere di rito. Desiderò di essere trasportato a Mantova, dove fu accolto con grandi onori, e con generale rimpianto; ed io ebbi il grande dolore di non poter accompagnarlo per preciso divieto del medico, in causa dello stato della mia salute in quel momento. Dopo varii decennii mi fu riferito che il nome del 'Guglielmo' era ancora ricordato da molti a Mantova con grande venerazione.
 
+      **(transcrição incompleta, continua)**
 
 
     photos:
