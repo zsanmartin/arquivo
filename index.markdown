@@ -22,8 +22,8 @@ title: Lista
 
 #### Vivanti
 
-* [Claudio Vivanti](/person/ClaudioVivanti)
-* [Clelia Vivanti (1862-- 1912)](/person/CleliaVivanti)
+* [Giulio Vivanti (1859 -- 1949)](/person/GiulioVivanti)
+* [Clelia Vivanti (1862 -- 1912)](/person/CleliaVivanti)
 
 #### Outros documentos
 

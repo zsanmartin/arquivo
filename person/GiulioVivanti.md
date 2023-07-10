@@ -1,7 +1,7 @@
 ---
-title: Claudio Vivanti
+title: Giulio Vivanti
 layout: person
-permalink: /person/ClaudioVivanti
+permalink: /person/GiulioVivanti
 photo_groups:
   - group_name: Ricordi
     group_id: Ricordi
@@ -42,10 +42,10 @@ photo_groups:
 
 
     photos:
-      - path: photos/ClaudioVivanti/Ricordi/RicordiClaudioVivanti1.jpeg
-      - path: photos/ClaudioVivanti/Ricordi/RicordiClaudioVivanti2.jpeg
-      - path: photos/ClaudioVivanti/Ricordi/RicordiClaudioVivanti3.jpeg
-      - path: photos/ClaudioVivanti/Ricordi/RicordiClaudioVivanti4.jpeg
-      - path: photos/ClaudioVivanti/Ricordi/RicordiClaudioVivanti5.jpeg
-      - path: photos/ClaudioVivanti/Ricordi/RicordiClaudioVivanti6.jpeg
+      - path: photos/GiulioVivanti/Ricordi/RicordiGiulioVivanti1.jpeg
+      - path: photos/GiulioVivanti/Ricordi/RicordiGiulioVivanti2.jpeg
+      - path: photos/GiulioVivanti/Ricordi/RicordiGiulioVivanti3.jpeg
+      - path: photos/GiulioVivanti/Ricordi/RicordiGiulioVivanti4.jpeg
+      - path: photos/GiulioVivanti/Ricordi/RicordiGiulioVivanti5.jpeg
+      - path: photos/GiulioVivanti/Ricordi/RicordiGiulioVivanti6.jpeg
 ---
