@@ -60,6 +60,37 @@ photo_groups:
       - path: photos/GiorgioMortara/LibrettoPersonale/GiorgioMortaraLibrettoPersonalePage60.jpeg
       - path: photos/GiorgioMortara/LibrettoPersonale/GiorgioMortaraLibrettoPersonalePage62.jpeg
       - path: photos/GiorgioMortara/LibrettoPersonale/GiorgioMortaraLibrettoPersonalePage64.jpeg
+  - group_name: Decreto de naturalização
+    group_id: DecretoDeNaturalizacao
+    description: |
+      _Decreto de naturalização de Giorgio Mortara (aquisição de cidadania brasileira), assinado pelo
+      então presidente da república Getúlio Vargas. O decreto tem tamanho maior que um A4 então a página
+      de carimbos foi digitalizada em duas imagens._
+
+      **O Presidente da República**
+
+      RESOLVE, na conformidade do art. 1.º, letra f do Decreto-Lei n.º 389, de 25 de abril de 1938, conceder a
+      naturalização que pediu **GIORGIO MORTARA**, natural **da Itália**, nascido a **4 de abril de 1885**, filho de
+      **Lodovico Mortara e de Clelia Vivanti**, residente no **Distrito Federal**, a fim de que possa gozar dos
+      direitos outorgados pela Constituição e leis do Brasil.
+
+      Rio de Janeiro, em 17 de outubro de 1945, 124.º da Independência e 57.º da República.
+
+      Getúlio Vargas
+
+      _(segunda assinatura ilegível)_
+
+      Proc. n.º **2.950-43**.
+
+    photos:
+      - name: Decreto de naturalização de Giorgio Mortara.
+        path: photos/GiorgioMortara/DecretoDeNaturalizacao/GiorgioMortaraDecretoDeNaturalizacao-01.jpeg
+      - name: Decreto de naturalização de Giorgio Mortara. Brasão em alto relevo no topo do decreto.
+        path: photos/GiorgioMortara/DecretoDeNaturalizacao/GiorgioMortaraDecretoDeNaturalizacao-02.jpeg
+      - name: Decreto de naturalização de Giorgio Mortara. Carimbos na segunda página, topo da página.
+        path: photos/GiorgioMortara/DecretoDeNaturalizacao/GiorgioMortaraDecretoDeNaturalizacao-03.jpeg
+      - name: Decreto de naturalização de Giorgio Mortara. Carimbos na segunda página, parte inferior da página.
+        path: photos/GiorgioMortara/DecretoDeNaturalizacao/GiorgioMortaraDecretoDeNaturalizacao-04.jpeg
   - group_name: Premiação 1962, Banca de Italia
     group_id: Award1962
     photos:
