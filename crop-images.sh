@@ -1,4 +1,4 @@
-for PHOTO_FILEPATH in $(find images -name "*.jpeg"); do
+for PHOTO_FILEPATH in $(find images/photos -name "*.jpeg"); do
   for THUMB_DIR in thumbs largeThumbs; do
     PHOTO_DIR=${PHOTO_FILEPATH%/*g}
     mkdir -p "$THUMB_DIR/$PHOTO_DIR"
