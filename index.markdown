@@ -13,6 +13,7 @@ title: Lista
 
 #### Ajò
 
+* [Amelia Ajò Ottolenghi (1864 -- 1943)](/person/AmeliaAjoOttolenghi)
 * [Emma Ajò Camerini (1867 -- 1944)](/person/EmmaAjoCamerini)
 
 #### Ottolenghi
