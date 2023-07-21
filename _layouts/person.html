@@ -10,9 +10,11 @@ layout: default
   </div>
 
   {% for photo_group in page.photo_groups %}
-    <h3>{{ photo_group.group_name }}</h3>
-    <div id="galleria-{{ photo_group.group_id }}" class="galleria" style="height: 100vh"></div>
-    {{ photo_group.description|markdownify }}
+    <div class="mb-5">
+      <h3>{{ photo_group.group_name }}</h3>
+      <div id="galleria-{{ photo_group.group_id }}" class="galleria" style="height: 100vh"></div>
+      {{ photo_group.description|markdownify }}
+    </div>
   {% endfor %}
 </div>
 
