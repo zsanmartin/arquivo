@@ -115,7 +115,11 @@ photo_groups:
         path: photos/GiorgioMortara/Awards/GiorgioMortaraAwardsBancaDItalia2.jpeg
       - name: Carta da Banca d'Italia. Verso.
         path: photos/GiorgioMortara/Awards/GiorgioMortaraAwardsBancaDItalia3.jpeg
-
+  - group_name: Outros
+    group_id: Others
+    photos:
+      - path: photos/GiorgioMortara/Other/GiorgioMortaraLetter1901072401.jpeg
+      - path: photos/GiorgioMortara/Other/GiorgioMortaraLetter1901072402.jpeg
 ---
 
 Giorgio Mortara (04/04/1885, Mantova -- 30/03/1967, Rio de Janeiro).
