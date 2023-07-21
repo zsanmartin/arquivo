@@ -20,9 +20,9 @@ photo_groups:
       - name: Cartolina Postale, Giorgio a Laura (#02). Verso.
         path: photos/GiorgioMortara/CartolinePostale/GiorgioMortaraCartolinePostaleLauraBack.jpeg
       - name: Cartolina Postale, Giorgio a Laura (#03), enviado de Moscou, URSS. Frente.
-        path: photos/GiorgioMortara/CartolinePostale/GiorgioMortaraCartolinePostaleRussiaBack.jpeg
-      - name: Cartolina Postale, Giorgio a Laura (#03), enviado de Moscou, URSS. Verso.
         path: photos/GiorgioMortara/CartolinePostale/GiorgioMortaraCartolinePostaleRussiaFront.jpeg
+      - name: Cartolina Postale, Giorgio a Laura (#03), enviado de Moscou, URSS. Verso.
+        path: photos/GiorgioMortara/CartolinePostale/GiorgioMortaraCartolinePostaleRussiaBack.jpeg
   - group_name: Libretto Personale, Regio Esercito Italiano
     group_id: LibrettoPersonale
     photos:
@@ -60,6 +60,17 @@ photo_groups:
       - path: photos/GiorgioMortara/LibrettoPersonale/GiorgioMortaraLibrettoPersonalePage60.jpeg
       - path: photos/GiorgioMortara/LibrettoPersonale/GiorgioMortaraLibrettoPersonalePage62.jpeg
       - path: photos/GiorgioMortara/LibrettoPersonale/GiorgioMortaraLibrettoPersonalePage64.jpeg
+  - group_name: Cartas ao filho Valerio
+    group_id: LettersToValerio
+    photos:
+      - path: photos/GiorgioMortara/LettersToValerio/GiorgioMortaraLettersToValerio01.jpeg
+      - path: photos/GiorgioMortara/LettersToValerio/GiorgioMortaraLettersToValerio02.jpeg
+      - path: photos/GiorgioMortara/LettersToValerio/GiorgioMortaraLettersToValerio03.jpeg
+      - path: photos/GiorgioMortara/LettersToValerio/GiorgioMortaraLettersToValerio04.jpeg
+      - path: photos/GiorgioMortara/LettersToValerio/GiorgioMortaraLettersToValerio05.jpeg
+      - path: photos/GiorgioMortara/LettersToValerio/GiorgioMortaraLettersToValerio06.jpeg
+      - path: photos/GiorgioMortara/LettersToValerio/GiorgioMortaraLettersToValerio07.jpeg
+
   - group_name: Decreto de naturalização
     group_id: DecretoDeNaturalizacao
     description: |
@@ -91,11 +102,20 @@ photo_groups:
         path: photos/GiorgioMortara/DecretoDeNaturalizacao/GiorgioMortaraDecretoDeNaturalizacao-03.jpeg
       - name: Decreto de naturalização de Giorgio Mortara. Carimbos na segunda página, parte inferior da página.
         path: photos/GiorgioMortara/DecretoDeNaturalizacao/GiorgioMortaraDecretoDeNaturalizacao-04.jpeg
-  - group_name: Premiação 1962, Banca de Italia
+  - group_name: Premiação 1962
     group_id: Award1962
     photos:
-      - path: photos/GiorgioMortara/Awards/envelope.jpeg
-      - path: photos/GiorgioMortara/Awards/letterPresident.jpeg
+      - name: Carta do presidente italiano. Envelope.
+        path: photos/GiorgioMortara/Awards/GiorgioMortaraAwardsGronchi1.jpeg
+      - name: Carta do presidente italiano.
+        path: photos/GiorgioMortara/Awards/GiorgioMortaraAwardsGronchi2.jpeg
+      - name: Carta da Banca d'Italia. Envelope.
+        path: photos/GiorgioMortara/Awards/GiorgioMortaraAwardsBancaDItalia1.jpeg
+      - name: Carta da Banca d'Italia. Frente.
+        path: photos/GiorgioMortara/Awards/GiorgioMortaraAwardsBancaDItalia2.jpeg
+      - name: Carta da Banca d'Italia. Verso.
+        path: photos/GiorgioMortara/Awards/GiorgioMortaraAwardsBancaDItalia3.jpeg
+
 ---
 
 Giorgio Mortara (04/04/1885, Mantova -- 30/03/1967, Rio de Janeiro).
