@@ -3,6 +3,10 @@ title: Giulio Vivanti
 layout: person
 permalink: /person/GiulioVivanti
 photo_groups:
+  - group_name: Foto
+    group_id: Photos
+    photos:
+      - path: photos/GiulioVivanti/Photos/GiulioVivantiPortrait.jpeg
   - group_name: Ricordi
     group_id: Ricordi
     description: |
