@@ -10,6 +10,14 @@ photo_groups:
         path: photos/LodovicoMortara/CartolinePostale/LodovicoMortaraCartolinePostale1933Front.jpeg
       - name: Cartão postal ao seu neto, Valerio Mortara. Verso.
         path: photos/LodovicoMortara/CartolinePostale/LodovicoMortaraCartolinePostale1933Back.jpeg
+  - group_name: Premiações
+    group_id: Premiazione
+    description: |
+      Lista de prêmios de Lodovico Mortara, anotadas por Giorgio Mortara.
+    photos:
+      - path: photos/LodovicoMortara/Premiazione/LodovicoMortaraPremiazione1.jpeg
+      - path: photos/LodovicoMortara/Premiazione/LodovicoMortaraPremiazione2.jpeg
+
   - group_name: Ultima Volontà
     group_id: UltimaVolonta
     description: |
