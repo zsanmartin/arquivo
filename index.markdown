@@ -9,6 +9,7 @@ title: Lista
 * [Lodovico Mortara (1855 -- 1937)](/person/LodovicoMortara)
 * [Giorgio Mortara (1885 -- 1967)](/person/GiorgioMortara)
 * [Mario Mortara (1889 -- 1962)](/person/MarioMortara)
+* [Regina (Gina) Mortara (1889 -- 1965)](/person/GinaMortara)
 * [Alberto Mortara (1920 -- 1996)](/person/AlbertoMortara)
 
 #### Ajò
