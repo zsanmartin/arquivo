@@ -70,7 +70,23 @@ photo_groups:
       - path: photos/GiorgioMortara/LettersToValerio/GiorgioMortaraLettersToValerio05.jpeg
       - path: photos/GiorgioMortara/LettersToValerio/GiorgioMortaraLettersToValerio06.jpeg
       - path: photos/GiorgioMortara/LettersToValerio/GiorgioMortaraLettersToValerio07.jpeg
-
+  - group_name: Giornalino dei Giochi
+    group_id: GiornalinoDeiGiochi
+    photos:
+      - name: Giornalino dei Giochi. Página 1.
+        path: photos/ValerioMortara/Newspapers/GiornalinoDeiGiochi1.jpeg
+      - name: Giornalino dei Giochi. Página 2.
+        path: photos/ValerioMortara/Newspapers/GiornalinoDeiGiochi2.jpeg
+      - name: Giornalino dei Giochi. Página 3.
+        path: photos/ValerioMortara/Newspapers/GiornalinoDeiGiochi3.jpeg
+      - name: Giornalino dei Giochi. Página 4.
+        path: photos/ValerioMortara/Newspapers/GiornalinoDeiGiochi4.jpeg
+      - name: Giornalino dei Giochi. Página 5.
+        path: photos/ValerioMortara/Newspapers/GiornalinoDeiGiochi5.jpeg
+      - name: Giornalino dei Giochi. Página 6.
+        path: photos/ValerioMortara/Newspapers/GiornalinoDeiGiochi6.jpeg
+      - name: Giornalino dei Giochi. Página 7.
+        path: photos/ValerioMortara/Newspapers/GiornalinoDeiGiochi7.jpeg
   - group_name: Decreto de naturalização
     group_id: DecretoDeNaturalizacao
     description: |

@@ -11,6 +11,7 @@ title: Lista
 * [Mario Mortara (1889 -- 1962)](/person/MarioMortara)
 * [Regina (Gina) Mortara (1889 -- 1965)](/person/GinaMortara)
 * [Alberto Mortara (1920 -- 1996)](/person/AlbertoMortara)
+* [Valerio Mortara (1931 -- 2018)](/person/ValerioMortara)
 
 #### Ajò
 
