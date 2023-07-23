@@ -22,6 +22,7 @@ title: Lista
 
 * [Samuele Ottolenghi (1855 -- 1915)](/person/SamueleOttolenghi)
 * [Bellom Ottolenghi (1863 -- 1929)](/person/BellomOttolenghi)
+* [Marinella Ottolenghi (n. 1926)](/person/MarinellaOttolenghi)
 
 #### Vivanti
 
